@@ -1,6 +1,5 @@
 <img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/eec02251-3218-4122-9dad-8bbc8b522a91" /># Cloud Document Management System
 
-![Cloud Document Manager](images/cover-image.png)
 
 A cutting-edge, secure document storage and management system built leveraging React and Firebase. This platform offers user authentication, real-time document upload, management, and preview capabilities. It combines the sophistication of Material-UI with Firebase's robust backend to deliver an exceptional user experience.
 
