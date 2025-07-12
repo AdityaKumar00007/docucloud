@@ -1,4 +1,4 @@
-# Cloud Document Management System
+<img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/eec02251-3218-4122-9dad-8bbc8b522a91" /># Cloud Document Management System
 
 ![Cloud Document Manager](images/cover-image.png)
 
@@ -23,16 +23,10 @@ A cutting-edge, secure document storage and management system built leveraging R
 - **Notifications**: React Hot Toast
 - **Routing**: React Router DOM
 
-## 📸 Screenshots
+<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/c1bf870c-acb8-49b0-9606-da188cb488f8" />
+<img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/5ea7f858-fd2c-4e29-87f9-61d341b320cc" />
 
-### Upload Interface
-![Upload Interface](images/upload-interface.png)
 
-### Document List
-![Document List](images/document-list.png)
-
-### Document Viewer
-![Document Viewer](images/document-viewer.png)
 
 ## 🛠️ Installation
 
