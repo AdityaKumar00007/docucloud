@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0f2f5;
+      }
+      .cls-2 {
+        fill: #dce0e6;
+      }
+      .cls-3 {
+        fill: #bcc0c5;
+      }
+      .cls-4 {
+        fill: #3f51b5;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" x="96" y="112" width="320" height="280" rx="8" ry="8"/>
+    <path class="cls-2" d="M176,220h160a0,0,0,0,1,0,0v12a8,8,0,0,1-8,8H184a8,8,0,0,1-8-8V220A0,0,0,0,1,176,220Z"/>
+    <path class="cls-2" d="M176,260h160a0,0,0,0,1,0,0v12a8,8,0,0,1-8,8H184a8,8,0,0,1-8-8V260A0,0,0,0,1,176,260Z"/>
+    <path class="cls-2" d="M176,300h160a0,0,0,0,1,0,0v12a8,8,0,0,1-8,8H184a8,8,0,0,1-8-8V300A0,0,0,0,1,176,300Z"/>
+    <path class="cls-3" d="M224,172l32-24,32,24v48H224Z"/>
+    <path class="cls-4" d="M238,172l18-16,18,16v34H238Z"/>
+    <circle class="cls-3" cx="256" cy="224" r="8"/>
+    <line class="cls-3" x1="96" y1="112" x2="416" y2="112"/>
+  </g>
+</svg>
